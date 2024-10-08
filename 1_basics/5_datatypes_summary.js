@@ -42,3 +42,10 @@ console.log("hello world");
 //        Arrays  =>  object
 //        Function  =>  function object
 //        Object  =>  object
+
+// ----------------------------------------------------------------------------------
+
+// stack memory -> all primitive types
+// stack means copy is passed (call by value)
+
+// heap memory -> for all non-primitive types. (call by reference)
