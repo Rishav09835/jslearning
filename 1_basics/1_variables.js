@@ -12,3 +12,11 @@ cname = "Rajendra"
 city = "Dehradun"
 console.log(rollNo);
 console.table([age,cname,city])
+
+//rules 
+/*
+variable are case sensitive "A" & "a" is different
+only letters,digits,_,and $ is allowed
+1st character can be only letter, _, or $.
+reserved words not to be used as variable names.
+*/
